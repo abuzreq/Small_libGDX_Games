@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1256"?>
+<Sprite path = "data/red1.png" x = "0" y = "0" width = "100" height = "100" >
+	<origin x = "15" y = "10" />
+	<scale></scale>
+	<rotation></rotation>
+	<arabic hello = "مرحبا"/>
+</Sprite>
